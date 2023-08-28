@@ -1,0 +1,11 @@
+C:\Users\pangwanshan\source\repos\Zigbee_part\bin\Debug\Zigbee_part.exe.config
+C:\Users\pangwanshan\source\repos\Zigbee_part\bin\Debug\Zigbee_part.exe
+C:\Users\pangwanshan\source\repos\Zigbee_part\bin\Debug\Zigbee_part.pdb
+C:\Users\pangwanshan\source\repos\Zigbee_part\obj\Debug\Zigbee_part.csproj.AssemblyReference.cache
+C:\Users\pangwanshan\source\repos\Zigbee_part\obj\Debug\Zigbee_part.Form1.resources
+C:\Users\pangwanshan\source\repos\Zigbee_part\obj\Debug\Zigbee_part.Properties.Resources.resources
+C:\Users\pangwanshan\source\repos\Zigbee_part\obj\Debug\Zigbee_part.csproj.GenerateResource.cache
+C:\Users\pangwanshan\source\repos\Zigbee_part\obj\Debug\Zigbee_part.csproj.CoreCompileInputs.cache
+C:\Users\pangwanshan\source\repos\Zigbee_part\obj\Debug\Zigbee_part.exe
+C:\Users\pangwanshan\source\repos\Zigbee_part\obj\Debug\Zigbee_part.pdb
+C:\Users\pangwanshan\source\repos\Zigbee_part\obj\Debug\Zigbee_part.exe.config

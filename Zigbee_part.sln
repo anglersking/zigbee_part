@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zigbee_part", "Zigbee_part.csproj", "{ABA6D0C4-858C-4243-A6A9-069F79FD1118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA6D0C4-858C-4243-A6A9-069F79FD1118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA6D0C4-858C-4243-A6A9-069F79FD1118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA6D0C4-858C-4243-A6A9-069F79FD1118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA6D0C4-858C-4243-A6A9-069F79FD1118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACFDCB5D-8494-44E1-95C1-1ECCF620B9CD}
+	EndGlobalSection
+EndGlobal
